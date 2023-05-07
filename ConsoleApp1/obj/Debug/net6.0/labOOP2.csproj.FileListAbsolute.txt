@@ -1,0 +1,15 @@
+E:\1 курс(2 семестр)\OOP\lab2OOP\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\labOOP2.exe
+E:\1 курс(2 семестр)\OOP\lab2OOP\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\labOOP2.deps.json
+E:\1 курс(2 семестр)\OOP\lab2OOP\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\labOOP2.runtimeconfig.json
+E:\1 курс(2 семестр)\OOP\lab2OOP\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\labOOP2.dll
+E:\1 курс(2 семестр)\OOP\lab2OOP\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\labOOP2.pdb
+E:\1 курс(2 семестр)\OOP\lab2OOP\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\labOOP2.csproj.AssemblyReference.cache
+E:\1 курс(2 семестр)\OOP\lab2OOP\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\labOOP2.GeneratedMSBuildEditorConfig.editorconfig
+E:\1 курс(2 семестр)\OOP\lab2OOP\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\labOOP2.AssemblyInfoInputs.cache
+E:\1 курс(2 семестр)\OOP\lab2OOP\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\labOOP2.AssemblyInfo.cs
+E:\1 курс(2 семестр)\OOP\lab2OOP\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\labOOP2.csproj.CoreCompileInputs.cache
+E:\1 курс(2 семестр)\OOP\lab2OOP\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\labOOP2.dll
+E:\1 курс(2 семестр)\OOP\lab2OOP\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\labOOP2.dll
+E:\1 курс(2 семестр)\OOP\lab2OOP\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\labOOP2.pdb
+E:\1 курс(2 семестр)\OOP\lab2OOP\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\labOOP2.genruntimeconfig.cache
+E:\1 курс(2 семестр)\OOP\lab2OOP\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\labOOP2.dll
